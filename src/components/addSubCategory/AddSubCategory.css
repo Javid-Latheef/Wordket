@@ -1,0 +1,18 @@
+.subCategoryContainer{
+    padding: 2rem 15rem;
+    box-shadow: 0 .125rem .25rem rgba(0,0,0,.075);
+    border-radius: .25rem;
+    background-color: #fff;
+}
+
+
+.subCategoryContainer label{
+    color: #a8acad;
+}
+
+.subCategoryHeader{
+    text-align: center;
+    color: #17a2b8;
+    padding: 0px 0px 20px 0px;;
+    font-size: 30px;
+}

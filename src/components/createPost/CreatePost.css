@@ -1,0 +1,30 @@
+.postContainer{
+    padding: 2rem 15rem;
+    box-shadow: 0 .125rem .25rem rgba(0,0,0,.075);
+    border-radius: .25rem;
+    background-color: #fff;
+}
+
+.postContainer label{
+    color: #a8acad;
+}
+
+.postHeader{
+    text-align: center;
+    color: #17a2b8;
+    padding: 0px 0px 20px 0px;;
+    font-size: 30px;
+}
+
+#description{
+    min-height: 200px;
+}
+
+.react-datepicker-wrapper{
+    width: 100%;
+}
+
+.react-datepicker-wrapper input{
+    width: 100%;
+    padding: 5px;
+}
